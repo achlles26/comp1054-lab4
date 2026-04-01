@@ -1,0 +1,9 @@
+Team                         GP   W   L   OT   PTS
+Vegas Golden Knights         74   43  21  10   96
+Edmonton Oilers              73   42  23   8   92
+Los Angeles Kings            74   39  24  11   89
+Vancouver Canucks            73   36  26  11   83
+Calgary Flames               74   33  30  11   77
+Seattle Kraken               74   31  31  12   74
+Anaheim Ducks                74   25  43   6   56
+San Jose Sharks              74   17  49   8   42
