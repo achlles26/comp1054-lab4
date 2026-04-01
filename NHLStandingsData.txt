@@ -1,9 +1,11 @@
+NHL Pacific Division Standings
+
 Team                         GP   W   L   OT   PTS
-Vegas Golden Knights         74   43  21  10   96
-Edmonton Oilers              73   42  23   8   92
-Los Angeles Kings            74   39  24  11   89
-Vancouver Canucks            73   36  26  11   83
-Calgary Flames               74   33  30  11   77
-Seattle Kraken               74   31  31  12   74
-Anaheim Ducks                74   25  43   6   56
-San Jose Sharks              74   17  49   8   42
+Anaheim Ducks                74   40  28   6   86
+Edmonton Oilers              75   38  28   9   85
+Vegas Golden Knights         74   36  27  11   83
+Los Angeles Kings            74   34  27  13   81
+Seattle Kraken               73   32  30  11   75
+Calgary Flames               74   30  33  11   71
+San Jose Sharks              72   29  31  12   70
+Vancouver Canucks            73   25  38  10   60
