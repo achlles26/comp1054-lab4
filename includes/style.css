@@ -30,5 +30,6 @@ tbody th {
 
 caption {
 
-    font-size: 20px;
+    font-size: 2rem;
+    font-weight: bold;
 }
